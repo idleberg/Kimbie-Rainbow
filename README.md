@@ -22,4 +22,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [2]: https://raw.github.com/idleberg/Kimbie-Rainbow/master/images/screenshot.gif
 [3]: https://github.com/ccampbell/rainbow
 [4]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[5]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Kimbie-Rainbow/&title=Kimbie&20Color%20Scheme&category=software
+[5]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Kimbie-Rainbow/&title=Kimbie%20Color%20Scheme&category=software
